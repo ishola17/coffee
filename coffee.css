@@ -16,7 +16,7 @@
   justify-content: space-between;
   align-items: center;
   padding: 20px 60px;
-  background-color: #fdfcf8;
+  background-color: #a39e8b;
 }
 
 .logo {
@@ -266,6 +266,7 @@
   height: 1px;
   background-color: #d0d0d0;
   margin-bottom: 4rem;
+
 }
 
 .image-sequence {
